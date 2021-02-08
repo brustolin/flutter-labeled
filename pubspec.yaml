@@ -1,6 +1,6 @@
 name: labeled
 description: A widget containing a label and a child widget
-version: 0.0.1
+version: 1.0.0
 homepage: https://github.com/brustolin/flutter-labeled
 
 environment:
